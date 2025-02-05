@@ -1,8 +1,7 @@
 import os
 import shutil
 
-# Caminho base onde as SPEs estão localizadas
-base_dir = r"C:\Users\wesley.teixeira\OneDrive - Grupo Trinus Co\Desktop\Nova pasta"
+base_dir = r"C:"  # Insira o caminho do diretório principal
 
 # Nome da pasta que será removida
 pasta_alvo = "2025"

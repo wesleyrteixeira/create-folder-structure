@@ -1,7 +1,6 @@
 import os
 
-# Caminho base onde as SPEs estão localizadas
-base_dir = r"C:\Users\wesley.teixeira\Grupo Trinus Co\PRESTAÇÃO DE CONTAS BACKOFFICE - Documentos"
+base_dir = r"C:"  # Insira o caminho do diretório principal
 
 # Nome do arquivo que será removido
 arquivo_alvo = "Contabilidade"

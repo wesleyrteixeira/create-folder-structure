@@ -1,7 +1,6 @@
 import os
 
-# Caminho base onde as SPEs estão localizadas
-base_dir = r"C:\Users\wesley.teixeira\Grupo Trinus Co\PRESTAÇÃO DE CONTAS BACKOFFICE - Documentos"
+base_dir = r"C:"  # Insira o caminho do diretório principal
 
 # Lista de meses e subpastas
 meses = [
