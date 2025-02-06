@@ -51,7 +51,7 @@ Descrição: Apaga um arquivo específico dentro da pasta "2025", sem afetar arq
 
 📌 O que ele faz:
 
-Verifica todas as subpastas dentro de "PRESTAÇÃO DE CONTAS BACKOFFICE - Documentos".
+Verifica todas as subpastas dentro de "Documentos".
 Se encontrar a pasta "2025", verifica se o arquivo "X" está nela.
 Se o arquivo existir, ele será excluído.
 ⚠️ Esse script não remove arquivos dentro das subpastas "Contabilidade", "Financeiro" e "Fiscal".
