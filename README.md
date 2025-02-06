@@ -49,10 +49,10 @@ Creates the **"2025"** folder inside each subdirectory of the main directory. In
 python criar_pastas.py
 
 ### 2️⃣ Remove the 2025 Folder | Remover a pasta 2025
-**File | Arquivo: remover_pastas.py**
-Description | Descrição:
+**File | Arquivo:** remover_pastas.py
+**Description | Descrição:**
 Completely removes the "2025" folder and all its contents within each subdirectory of the main directory.
-Remove completamente a pasta "2025" e todo o seu conteúdo dentro de cada subpasta do diretório principal.
+**Remove completamente a pasta "2025" e todo o seu conteúdo dentro de cada subpasta do diretório principal.**
 
 ⚠️ Warning | Atenção: This action is irreversible. Double-check before running.
 Essa ação é irreversível. Verifique antes de executar.
